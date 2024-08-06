@@ -1,0 +1,116 @@
+
+:root {
+  font-family: 'Token Sans';
+  font-size: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Token Sans';
+  letter-spacing: 0.1rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  line-height: 1.2;
+  margin: 1.5rem 0;
+}
+
+h2 {
+  font-family: 'Token Sans';
+  font-weight: 600;
+  font-size: 2rem;
+  text-align: center;
+  margin: 0 0 3rem;
+  padding: 4rem 0;
+  border-bottom: black solid 3px;
+  border-top: black solid 3px;
+}
+
+h3 {
+  font-family: 'Token Serif';
+  margin: 2rem 0.25rem;
+}
+
+p {
+  font-family: 'Token Sans';
+}
+
+figcaption p {
+  font-weight: 700;
+}
+
+figcaption em {
+  font-family: 'Token Serif';
+}
+
+header p {
+  font-family: 'Token Bebop';
+  letter-spacing: 0.0625rem;
+  font-size: 1.5rem;
+}
+
+header {
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 4rem;
+}
+
+header p {
+  margin: 0;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr;
+  /* grid-gap: 2rem; */
+}
+
+main h2,
+main h3 {
+  grid-column: 1/-1;
+}
+
+main .diagram-container {
+
+}
+
+figure {
+  margin: 1rem 0.25rem 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  /* float: right; */
+}
+
+img {
+  width: 100%;
+  margin: 0;
+}
+
+figcaption {
+  margin: 0;
+  padding-left: 0.125rem;
+}
+
+figcaption p {
+  font-size: .75rem;
+  margin: 0;
+  letter-spacing: 0.0125rem;
+}
+
+.explanation {
+  padding-left: calc(0.25rem + 0.125rem);
+  /* margin figure + padding figcaption  */
+}
+
+@media (min-width: 700px) {
+  main {
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  }
+  figure {
+    float: right;
+  }
+}
