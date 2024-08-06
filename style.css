@@ -69,7 +69,9 @@ main {
 }
 
 main h2,
-main h3 {
+main h3,
+main small {
+
   grid-column: 1/-1;
 }
 
