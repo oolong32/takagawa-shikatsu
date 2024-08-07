@@ -107,6 +107,14 @@ figcaption p {
   padding-left: calc(0.25rem + 0.125rem);
   /* margin figure + padding figcaption  */
 }
+.explanation em {
+  font-style: normal;
+  font-weight: 600;
+}
+
+.all-cols {
+  grid-column: 1/-1;
+}
 
 @media (min-width: 700px) {
   main {
