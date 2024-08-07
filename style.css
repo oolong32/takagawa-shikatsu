@@ -64,7 +64,7 @@ header p {
 
 main {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
   /* grid-gap: 2rem; */
 }
 
@@ -114,6 +114,7 @@ figcaption p {
 
 .all-cols {
   grid-column: 1/-1;
+  padding-left: calc(0.25rem + 0.125rem);
 }
 
 @media (min-width: 700px) {
