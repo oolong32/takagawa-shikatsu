@@ -66,7 +66,7 @@ header p {
 main {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  /* grid-gap: 2rem; */
+  grid-gap: 2rem;
 }
 
 main h2,
@@ -81,7 +81,8 @@ main .diagram-container {
 }
 
 figure {
-  margin: 1rem 0.25rem 3rem;
+  /* margin: 1rem 0.25rem 3rem; */
+  margin: 0 0 0.125rem 0.25rem;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -95,7 +96,10 @@ img {
 
 figcaption {
   margin: 0;
-  padding-left: 0.125rem;
+  text-align: right;
+  /* padding-left: 0.125rem; */
+  margin-top: 0.125rem;
+  padding-right: 0.5rem;
 }
 
 figcaption p {
@@ -107,6 +111,8 @@ figcaption p {
 .explanation {
   padding-left: calc(0.25rem + 0.125rem);
   /* margin figure + padding figcaption  */
+  margin: 0;
+  padding-top: 0.25rem;
 }
 .explanation em {
   font-style: normal;
