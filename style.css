@@ -113,6 +113,7 @@ figcaption p {
   /* margin figure + padding figcaption  */
   margin: 0;
   padding-top: 0.25rem;
+  hyphens: auto;
 }
 .explanation em {
   font-style: normal;
