@@ -4,9 +4,7 @@
   font-size: 100%;
 }
 
-body {
-  margin: 0;
-}
+body { margin: 0; }
 
 h1 {
   font-family: 'Token Sans';
@@ -16,7 +14,7 @@ h1 {
   line-height: 1.2;
   margin: 1.5rem 0;
 }
-
+/*
 h2 {
   font-family: 'Token Sans';
   font-weight: 600;
@@ -27,8 +25,8 @@ h2 {
   border-bottom: black solid 3px;
   border-top: black solid 3px;
 }
-
-h3 {
+*/
+h2 {
   font-family: 'Token Sans';
   font-weight: 600;
   margin: 2rem 0.25rem;
@@ -56,7 +54,7 @@ header {
   background: black;
   color: white;
   text-align: center;
-  padding: 4rem;
+  padding: 4rem 0;
 }
 
 header p {
@@ -66,7 +64,7 @@ header p {
 main {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 2rem;
+  grid-gap: 2rem 1rem;
 }
 
 main h2,
