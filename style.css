@@ -114,7 +114,8 @@ figcaption p {
   padding-top: 0.25rem;
   hyphens: auto;
 }
-.explanation em {
+.explanation em,
+p em {
   font-style: normal;
   font-weight: 600;
 }
@@ -122,6 +123,13 @@ figcaption p {
 .all-cols {
   grid-column: 1/-1;
   padding-left: calc(0.25rem + 0.125rem);
+}
+
+aside table {
+
+}
+aside table th {
+  text-align: left;
 }
 
 @media (min-width: 700px) {
