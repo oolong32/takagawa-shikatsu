@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/SVG/DTD/svg11.dtd" >
+<svg version="1.1" baseProfile="full"  width="137.2441" height="137.2441" viewBox="0 0 98.81575 98.81575" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg" >
+
+<g lengthAdjust="spacingAndGlyphs" xml:space='preserve' >
+<g  transform="translate(1.19,1.19)" >
+<path d="
+M0.0 0.0
+L0.0 96.43
+L96.43 96.43
+L96.43 0.0
+Z
+" fill="none" fill-rule="nonzero" />
+<line x1="6.54" y1="6.54" x2="6.54" y2="95.83" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="18.45" y1="6.54" x2="18.45" y2="95.83" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="30.35" y1="6.54" x2="30.35" y2="95.83" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="42.26" y1="6.54" x2="42.26" y2="95.83" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="54.17" y1="6.54" x2="54.17" y2="95.83" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="66.07" y1="6.54" x2="66.07" y2="95.83" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="77.98" y1="6.54" x2="77.98" y2="95.83" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="89.88" y1="6.54" x2="89.88" y2="95.83" fill="none" stroke="black" stroke-width="0.87px" stroke-linecap="square" />
+<line x1="0.59" y1="6.54" x2="89.88" y2="6.54" fill="none" stroke="black" stroke-width="0.87px" stroke-linecap="square" />
+<line x1="0.59" y1="18.45" x2="89.88" y2="18.45" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="0.59" y1="30.35" x2="89.88" y2="30.35" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="0.59" y1="42.26" x2="89.88" y2="42.26" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="0.59" y1="54.17" x2="89.88" y2="54.17" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="0.59" y1="66.07" x2="89.88" y2="66.07" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="0.59" y1="77.98" x2="89.88" y2="77.98" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="0.59" y1="89.88" x2="89.88" y2="89.88" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<circle cx="30.35" cy="30.35" r="5.85" fill="white"/>
+<circle cx="30.35" cy="30.35" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="42.26" cy="18.45" r="5.85" fill="white"/>
+<circle cx="42.26" cy="18.45" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="54.17" cy="6.54" r="5.98" fill="black"/>
+<circle cx="54.17" cy="18.45" r="5.98" fill="black"/>
+<circle cx="54.17" cy="30.35" r="5.85" fill="white"/>
+<circle cx="54.17" cy="30.35" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="54.17" cy="42.26" r="5.85" fill="white"/>
+<circle cx="54.17" cy="42.26" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="54.17" cy="54.17" r="5.85" fill="white"/>
+<circle cx="54.17" cy="54.17" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="54.17" cy="66.07" r="5.85" fill="white"/>
+<circle cx="54.17" cy="66.07" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="66.07" cy="30.35" r="5.98" fill="black"/>
+<circle cx="66.07" cy="42.26" r="5.98" fill="black"/>
+<circle cx="66.07" cy="54.17" r="5.98" fill="black"/>
+<circle cx="66.07" cy="66.07" r="5.85" fill="white"/>
+<circle cx="66.07" cy="66.07" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="77.98" cy="18.45" r="5.98" fill="black"/>
+<circle cx="77.98" cy="42.26" r="5.98" fill="black"/>
+<circle cx="77.98" cy="54.17" r="5.85" fill="white"/>
+<circle cx="77.98" cy="54.17" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="77.98" cy="66.07" r="5.85" fill="white"/>
+<circle cx="77.98" cy="66.07" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="89.88" cy="30.35" r="5.85" fill="white"/>
+<circle cx="89.88" cy="30.35" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
+<text x="40.02" y="22.04" fill="black" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">3</text>
+<text x="51.92" y="10.06" fill="white" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">4</text>
+<text x="51.92" y="21.98" fill="white" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">2</text>
+<text x="87.64" y="33.89" fill="black" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">1</text>
+</g>
+</g>
+</svg>
