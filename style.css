@@ -109,12 +109,12 @@ figcaption p {
 }
 
 .explanation {
-  padding-left: calc(0.25rem + 0.125rem);
   /* margin figure + padding figcaption  */
   margin: 0;
   padding-top: 0.25rem;
   hyphens: auto;
 }
+
 .explanation em,
 p em {
   font-style: normal;
@@ -123,6 +123,11 @@ p em {
 
 .all-cols {
   grid-column: 1/-1;
+}
+
+.all-cols,
+.explanation,
+.single-paragraph {
   padding-left: calc(0.25rem + 0.125rem);
 }
 
@@ -135,6 +140,10 @@ aside table {
 }
 aside table th {
   text-align: left;
+}
+
+aside table td.hepburn {
+  font-weight: 600;
 }
 
 @media (min-width: 700px) {
