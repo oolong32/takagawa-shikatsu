@@ -42,8 +42,6 @@ Z
 <circle cx="42.26" cy="54.17" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
 <circle cx="54.17" cy="18.45" r="5.98" fill="black"/>
 <circle cx="54.17" cy="30.35" r="5.98" fill="black"/>
-<circle cx="54.17" cy="42.26" r="5.85" fill="white"/>
-<circle cx="54.17" cy="42.26" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
 <circle cx="66.07" cy="6.54" r="5.85" fill="white"/>
 <circle cx="66.07" cy="6.54" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
 <circle cx="66.07" cy="18.45" r="5.85" fill="white"/>
@@ -57,12 +55,9 @@ Z
 <circle cx="77.98" cy="18.45" r="5.85" fill="white"/>
 <circle cx="77.98" cy="18.45" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
 <circle cx="77.98" cy="30.35" r="5.98" fill="black"/>
-<circle cx="77.98" cy="42.26" r="5.85" fill="white"/>
-<circle cx="77.98" cy="42.26" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
 <circle cx="89.88" cy="18.45" r="5.98" fill="black"/>
 <circle cx="89.88" cy="30.35" r="5.85" fill="white"/>
 <circle cx="89.88" cy="30.35" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
-<circle cx="89.88" cy="42.26" r="5.98" fill="black"/>
 <circle cx="89.88" cy="54.17" r="5.85" fill="white"/>
 <circle cx="89.88" cy="54.17" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
 <circle cx="101.79" cy="6.54" r="5.98" fill="black"/>
