@@ -1,8 +1,10 @@
-
 :root {
   font-family: 'Token Sans';
   font-size: 100%;
+  box-sizing: border-box;
 }
+
+* { box-sizing: border-box; }
 
 body { margin: 0; }
 
