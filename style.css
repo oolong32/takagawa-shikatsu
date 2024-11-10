@@ -156,6 +156,10 @@ section {
   /* display: none; */
 }
 
+aside {
+  display: none;
+}
+
 aside table {
 
 }
