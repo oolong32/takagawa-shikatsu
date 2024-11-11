@@ -8,6 +8,7 @@
 
 body {
   margin: 0;
+  max-width: 100vw;
 }
 
 html, body { /*debug ios safari*/
@@ -16,6 +17,10 @@ html, body { /*debug ios safari*/
   max-width: 100vw;
 }
 
+p {  /* debug ios safari */
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
 h1 {
   font-family: 'Token Sans';
   letter-spacing: 0.1rem;
@@ -132,7 +137,7 @@ figcaption {
   text-align: right;
   /* padding-left: 0.125rem; */
   margin-top: 0.125rem;
-  /* padding-right: 0.5rem; debug ios safari */
+  padding-right: 0.5rem;
 }
 
 figcaption p {
@@ -144,7 +149,7 @@ figcaption p {
 .explanation {
   /* margin figure + padding figcaption  */
   margin: 0;
-  /* padding-top: 0.25rem; debug ios safari */
+  padding-top: 0.25rem;
   hyphens: auto;
 }
 
