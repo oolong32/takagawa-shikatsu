@@ -19,8 +19,7 @@ html, body { /*debug ios safari*/
 h1 {
   font-family: 'Token Sans';
   letter-spacing: 0.1rem;
-  /* font-size: clamp(2rem, 4vw, 4rem); */
-  font-size: 0.75rem;
+  font-size: clamp(2rem, 4vw, 4rem);
   font-weight: 300;
   text-transform: uppercase;
   line-height: 1.2;
@@ -133,7 +132,7 @@ figcaption {
   text-align: right;
   /* padding-left: 0.125rem; */
   margin-top: 0.125rem;
-  padding-right: 0.5rem;
+  /* padding-right: 0.5rem; debug ios safari */
 }
 
 figcaption p {
@@ -145,7 +144,7 @@ figcaption p {
 .explanation {
   /* margin figure + padding figcaption  */
   margin: 0;
-  padding-top: 0.25rem;
+  /* padding-top: 0.25rem; debug ios safari */
   hyphens: auto;
 }
 
