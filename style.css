@@ -91,7 +91,7 @@ nav ul li a {
 main {
   box-sizing: border-box;
   max-width: 100%;
-  padding: 1rem 0.25rem;
+  /* padding: 1rem 0.25rem; */
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 2rem 1rem;
