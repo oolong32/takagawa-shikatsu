@@ -67,7 +67,7 @@ L78.39 51.30
 L77.98 50.53
 Z
 " fill="white" fill-rule="nonzero" />
-<text x="87.64" y="57.70" fill="black" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">1</text>
+<text x="87.64" y="57.70" fill="black" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">1</text>
 </g>
 </g>
 </svg>

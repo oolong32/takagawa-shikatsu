@@ -90,9 +90,9 @@ L18.87 15.58
 L18.45 14.81
 Z
 " fill="white" fill-rule="nonzero" />
-<text x="63.83" y="10.08" fill="black" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">2</text>
+<text x="63.83" y="10.08" fill="black" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">2</text>
 <text x="86.92" y="21.49" fill="black" font-family="Token Sans" font-size="8.57px" textLength="5.93">C</text>
-<text x="99.55" y="21.98" fill="white" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">1</text>
+<text x="99.55" y="21.98" fill="white" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">1</text>
 <text x="98.92" y="33.27" fill="black" font-family="Token Sans" font-size="8.57px" textLength="5.73">A</text>
 <text x="110.79" y="33.27" fill="black" font-family="Token Sans" font-size="8.57px" textLength="5.81">B</text>
 <text x="110.43" y="45.17" fill="black" font-family="Token Sans" font-size="8.57px" textLength="6.52">D</text>

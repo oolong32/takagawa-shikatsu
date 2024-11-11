@@ -86,8 +86,8 @@ L18.87 27.49
 L18.45 26.72
 Z
 " fill="white" fill-rule="nonzero" />
-<text x="28.11" y="21.98" fill="black" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">2</text>
-<text x="40.02" y="21.98" fill="white" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">1</text>
+<text x="28.11" y="21.98" fill="black" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">2</text>
+<text x="40.02" y="21.98" fill="white" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">1</text>
 </g>
 </g>
 </svg>

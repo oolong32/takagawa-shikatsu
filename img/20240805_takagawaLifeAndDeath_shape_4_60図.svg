@@ -86,7 +86,7 @@ L54.58 27.49
 L54.17 26.72
 Z
 " fill="black" fill-rule="nonzero" />
-<text x="75.73" y="21.98" fill="white" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">1</text>
+<text x="75.73" y="21.98" fill="white" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">1</text>
 <path d="
 M89.88 76.33
 L91.72 79.70

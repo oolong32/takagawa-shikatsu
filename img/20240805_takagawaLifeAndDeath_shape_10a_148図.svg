@@ -89,8 +89,8 @@ Z
 <text x="39.60" y="9.46" fill="black" font-family="Token Sans" font-size="8.57px" textLength="5.32">F</text>
 <text x="63.16" y="9.46" fill="black" font-family="Token Sans" font-size="8.57px" textLength="5.81">B</text>
 <text x="62.81" y="21.36" fill="black" font-family="Token Sans" font-size="8.57px" textLength="6.52">D</text>
-<text x="75.73" y="10.08" fill="black" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">1</text>
-<text x="75.73" y="21.98" fill="white" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">2</text>
+<text x="75.73" y="10.08" fill="black" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">1</text>
+<text x="75.73" y="21.98" fill="white" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">2</text>
 <text x="86.92" y="9.59" fill="black" font-family="Token Sans" font-size="8.57px" textLength="5.93">C</text>
 <path d="
 M101.79 4.90

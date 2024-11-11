@@ -109,7 +109,7 @@ Z
 <text x="63.10" y="21.49" fill="black" font-family="Token Sans" font-size="8.57px" textLength="5.93">C</text>
 <text x="87.01" y="9.46" fill="black" font-family="Token Sans" font-size="8.57px" textLength="5.73">A</text>
 <text x="86.98" y="21.36" fill="black" font-family="Token Sans" font-size="8.57px" textLength="5.81">B</text>
-<text x="99.55" y="10.08" fill="white" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">1</text>
+<text x="99.55" y="10.08" fill="white" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">1</text>
 </g>
 </g>
 </svg>

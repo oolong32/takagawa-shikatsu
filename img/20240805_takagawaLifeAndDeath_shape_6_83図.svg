@@ -61,9 +61,9 @@ Z
 <circle cx="89.88" cy="54.17" r="5.98" fill="black"/>
 <circle cx="89.88" cy="66.07" r="5.85" fill="white"/>
 <circle cx="89.88" cy="66.07" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
-<text x="63.83" y="21.98" fill="black" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">2</text>
-<text x="75.73" y="10.14" fill="white" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">3</text>
-<text x="75.73" y="21.98" fill="white" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">1</text>
+<text x="63.83" y="21.98" fill="black" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">2</text>
+<text x="75.73" y="10.14" fill="white" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">3</text>
+<text x="75.73" y="21.98" fill="white" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">1</text>
 <path d="
 M89.88 64.43
 L91.72 67.79

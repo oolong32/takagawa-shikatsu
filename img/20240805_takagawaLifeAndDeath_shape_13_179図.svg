@@ -70,7 +70,7 @@ Z
 <circle cx="101.79" cy="30.35" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
 <circle cx="101.79" cy="42.26" r="5.85" fill="white"/>
 <circle cx="101.79" cy="42.26" r="5.85" fill="none" stroke="black" stroke-width="0.25px"/>
-<text x="40.02" y="10.08" fill="black" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">1</text>
+<text x="40.02" y="10.08" fill="black" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">1</text>
 <path d="
 M42.26 16.80
 L44.10 20.17

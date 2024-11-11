@@ -73,10 +73,10 @@ L42.68 3.67
 L42.26 2.91
 Z
 " fill="white" fill-rule="nonzero" />
-<text x="51.92" y="10.08" fill="black" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">1</text>
-<text x="75.73" y="10.14" fill="black" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">3</text>
-<text x="75.73" y="21.97" fill="white" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">4</text>
-<text x="87.64" y="21.98" fill="white" font-family="Arial Narrow" font-size="9.82px" textLength="4.48">2</text>
+<text x="51.92" y="10.08" fill="black" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">1</text>
+<text x="75.73" y="10.14" fill="black" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">3</text>
+<text x="75.73" y="21.97" fill="white" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">4</text>
+<text x="87.64" y="21.98" fill="white" font-family="'Arial Narrow', '-apple-system'" font-stretch="condensed" font-size="9.82px" textLength="4.48">2</text>
 </g>
 </g>
 </svg>
