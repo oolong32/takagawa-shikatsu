@@ -32,7 +32,7 @@ h2 {
 h2 {
   font-family: 'Token Sans';
   font-weight: 600;
-  margin: 2rem 0.25rem;
+  margin: 2rem 0;
 }
 
 p {
@@ -86,7 +86,7 @@ nav ul li a {
 }
 
 main {
-  padding-top: 1rem;
+  padding: 1rem 0.25rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 2rem 1rem;
@@ -151,7 +151,7 @@ p em {
 .all-cols,
 .explanation,
 .single-paragraph {
-  padding-left: calc(0.25rem + 0.125rem);
+  /* padding-left: calc(0.25rem + 0.125rem); */
 }
 
 section {
