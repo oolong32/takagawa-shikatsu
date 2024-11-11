@@ -8,6 +8,11 @@
 
 body {
   margin: 0;
+}
+
+html, body { /*debug ios safari*/
+  overflow-x: hidden;
+  width: 100%;
   max-width: 100vw;
 }
 
