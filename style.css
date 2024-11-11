@@ -11,22 +11,6 @@ body {
   max-width: 100vw;
 }
 
-html, body { /*debug ios safari*/
-  overflow-x: hidden;
-  width: 100%;
-  max-width: 100vw;
-}
-
-p {  /* debug ios safari */
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-}
-
-header { /* debug ios safari */
-  display: none;
-}
-
-
 h1 {
   font-family: 'Token Sans';
   letter-spacing: 0.1rem;
@@ -36,18 +20,7 @@ h1 {
   line-height: 1.2;
   margin: 1.5rem 0 0;
 }
-/*
-h2 {
-  font-family: 'Token Sans';
-  font-weight: 600;
-  font-size: 2rem;
-  text-align: center;
-  margin: 0 0 3rem;
-  padding: 4rem 0;
-  border-bottom: black solid 3px;
-  border-top: black solid 3px;
-}
-*/
+
 h2 {
   font-family: 'Token Sans';
   font-weight: 600;
@@ -167,12 +140,6 @@ p em {
 
 .all-cols {
   grid-column: 1/-1;
-}
-
-.all-cols,
-.explanation,
-.single-paragraph {
-  /* padding-left: calc(0.25rem + 0.125rem); */
 }
 
 section {
