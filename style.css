@@ -110,7 +110,7 @@ main .diagram-container {
 
 figure {
   /* margin: 1rem 0.25rem 3rem; */
-  /* margin: 0 0 0.125rem 0.25rem; */
+  margin: 0 0 0.125rem 0.25rem;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -127,7 +127,7 @@ figcaption {
   text-align: right;
   /* padding-left: 0.125rem; */
   margin-top: 0.125rem;
-  padding-right: 0.5rem;
+  /* padding-right: 0.5rem; */
 }
 
 figcaption p {
