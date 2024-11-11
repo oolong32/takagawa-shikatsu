@@ -142,14 +142,6 @@ p em {
   grid-column: 1/-1;
 }
 
-section {
-  /* display: none; */
-}
-
-aside {
-  display: none;
-}
-
 aside table {
 
 }
