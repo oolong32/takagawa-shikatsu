@@ -125,10 +125,12 @@ figcaption p {
   letter-spacing: 0.0125rem;
 }
 
+.explanation:first-of-type {
+  padding-top: 0.25rem;
+}
 .explanation {
   /* margin figure + padding figcaption  */
-  margin: 0;
-  padding-top: 0.25rem;
+  margin: 0 0 0.5rem;
   hyphens: auto;
 }
 
